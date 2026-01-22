@@ -167,7 +167,7 @@ This project is open source and available under the MIT License.
 
 ## 👤 Author
 
-**Zeeshan**
+**Zara Shahid**
 - GitHub: [@zara-shahid](https://github.com/zara-shahid)
 
 ## 🙏 Acknowledgments
