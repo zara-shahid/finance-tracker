@@ -153,9 +153,6 @@ finance-tracker/
 - `POST /api/budgets/` - Create budget
 - `DELETE /api/budgets/{id}/` - Delete budget
 
-## 📸 Screenshots
-
-(Add screenshots of your app here)
 
 ## 🤝 Contributing
 
@@ -170,7 +167,3 @@ This project is open source and available under the MIT License.
 **Zara Shahid**
 - GitHub: [@zara-shahid](https://github.com/zara-shahid)
 
-## 🙏 Acknowledgments
-
-- Built with guidance from Claude AI
-- Inspired by modern finance tracking applications
