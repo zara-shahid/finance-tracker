@@ -164,6 +164,6 @@ This project is open source and available under the MIT License.
 
 ## 👤 Author
 
-**Zara Shahid**
+**Zara Shahid :)**
 - GitHub: [@zara-shahid](https://github.com/zara-shahid)
 
