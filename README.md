@@ -1,6 +1,6 @@
 # 💰 Finance Tracker
 
-A full-stack personal finance management application built with Django REST Framework and Next.js.
+A full-stack personal finance management application built with Django REST Framework and Next.js, typescript .
 
 ## ✨ Features
 
